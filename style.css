@@ -1,0 +1,21 @@
+.dasdaad{
+    font-size: xx-large;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px yellow;
+}
+
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px dodgerblue;
+    font-size: large;
+}
+
+canvas{
+    border:outset olivedrab 10px;
+    box-shadow: 6px 6px 10px 11px firebrick;
+}
